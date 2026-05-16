@@ -2425,7 +2425,7 @@
         "summary": "X-Ray every MetaMask transaction for hidden MEV fees, earn passive income as a KENO staker, and track loyalty tier and governance weight — fully on-chain, directly in your wallet.",
         "description": "UTL Protocol is a live DeFi fee redistribution system on BSC Mainnet. The Snap integrates directly into MetaMask to provide:\n\n• Fee X-Ray — shows MEV risk and hidden fee extraction BEFORE you sign any transaction\n• Earnings Dashboard — tracks KENO staking rewards (60% of all collected protocol fees go to stakers)\n• Loyalty Tier System — Bronze → Diamond, auto-computed from on-chain toll history\n• Governance Weight — displays voting power for on-chain governance proposals\n• Flash Arbitrage Alerts (FAL) — daily cronjob checks for arbitrage opportunities\n• Weekly Reports — Sunday push notification with earnings summary\n\nLive contracts on BSC Mainnet:\nFeeCollector: 0xb9489B33Bd9bB835139369b1dD282fB44B2273d8\nStaking: 0x77C3946A9FD5F509584F94e81C43efb25120c837\nKENO Token: 0x65791E0B5Cbac5F40c76cDe31bf4F074D982FD0E",
         "audits": [],
-        "category": "defi",
+        "category": "interoperability",
         "support": {
           "contact": "https://kenostodblockchain.com"
         },
